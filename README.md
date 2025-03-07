@@ -7,6 +7,7 @@ Languages:
 [<img src="https://github.com/user-attachments/assets/2d5a7f13-4765-49b1-ad0f-02b272144c1f" height="64">](https://www.python.org/)
 [<img src="https://github.com/user-attachments/assets/ea851bab-93ac-4957-9b22-999535c3aba4" height="64">](https://dev.java/)
 [<img src="https://github.com/user-attachments/assets/09fcac5b-1151-48e0-9b3d-dfcb73ac5428" height="64">](https://www.javascript.com/)
+[<img src="https://github.com/user-attachments/assets/6c5cd010-8b9b-44e3-a370-87b4f7e5f2ca" height="64">](https://www.typescriptlang.org/)
 [<img src="https://github.com/user-attachments/assets/fb25ba1b-aa0b-442f-a839-18184b85ce92" height="64">](https://www.w3.org/html/)
 [<img src="https://github.com/user-attachments/assets/90b7b68b-c805-47ad-837f-ae6e6b6f6074" height="64">](https://www.w3.org/Style/CSS/Overview.en.html)
 [<img src="https://github.com/user-attachments/assets/c68ca5ba-0ba8-486f-9942-4df68e1b38c3" height="64">](https://cplusplus.com/)
