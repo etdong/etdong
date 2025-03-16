@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 my name is Eric Dong</h1>
+<h1 align="center">Hey! My name is Eric Dong</h1>
 
 <h3 align="center"><a href="https://eric.donger.ca">Portfolio Website</a></h3>
 
