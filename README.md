@@ -1,5 +1,4 @@
-<h1 align="center">Hey! My name is Eric Dong <img align="right" src="https://github-readme-stats.vercel.app/api?username=etdong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></h1>
-
+<h1 align="center">Hey! My name is Eric Dong </h1>
 <h3 align="center"><a href="https://eric.donger.ca">Portfolio Website</a></h3>
 
 Languages:
@@ -22,3 +21,5 @@ Libraries/Tools:
 [<img src="https://github.com/user-attachments/assets/86c9cc38-05cf-4c49-9b06-875dc0686984" height="64">](https://www.docker.com/)
 [<img src="https://github.com/user-attachments/assets/bfba7f4a-5dc6-49e7-8510-238c9982370f" height="64">](https://git-scm.com/)
 [<img src="https://github.com/user-attachments/assets/4112657b-cf02-42d0-bd71-3994fac72929" height="64">](https://www.linux.org/)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=etdong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
